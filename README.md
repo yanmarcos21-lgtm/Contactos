@@ -17,3 +17,4 @@ El formulario recibe nombre, apellido, teléfono, ciudad, dirección y género. 
 
 ## Autor
 Marco Obregón
+Lider Marino hoyos
