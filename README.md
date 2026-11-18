@@ -16,5 +16,6 @@ El formulario recibe nombre, apellido, teléfono, ciudad, dirección y género. 
 3. Completa el formulario y pulsa **ADD**.
 
 ## Autor
-Marco Obregón
+Marco Obregón.  
+
 Lider Marino hoyos
